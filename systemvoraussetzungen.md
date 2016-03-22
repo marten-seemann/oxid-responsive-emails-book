@@ -9,4 +9,3 @@ Bitte stellen Sie sicher, dass die Systemvoraussetzungen erfüllt sind, *bevor* 
 ## Server
 
 * PHP, Version 5.3 oder höher
-* [IonCube Loader](https://www.ioncube.com/loaders.php), Version 4.4 oder höher

@@ -1,15 +1,6 @@
 # Installation
 
-## Ihre Lizenz
-
-Das Modul benötigt den IonCube Loader. Viele Hoster haben diesen schon standardmäßig vorinstalliert, sollte dies nicht der Fall sein, können Sie ihn [hier herunterladen](http://www.ioncube.com/loaders.php).
-
-Ihre Lizenzdatei `license.txt` sollten Sie bereits per Email erhalten haben. Legen Sie diese Datei ins Hauptverzeichnis des Shops.
-
-
 ## zu kopierende Dateien
-
-Im Installationsverzeichnis finden Sie zwei Ordner, die den Quellcode von ROXID für verschiedene PHP-Versionen enthalten. Gehen Sie in den für Ihre Serverkonfiguration zutreffenden Ordner.
 
 Kopieren Sie erst den Inhalt des Ordners `copy_this` auf Ihren Server, dann den Inhalt des Ordners `changed_full`.
 
