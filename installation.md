@@ -2,8 +2,10 @@
 
 ## zu kopierende Dateien
 
-Kopieren Sie erst den Inhalt des Ordners `copy_this` auf Ihren Server, dann den Inhalt des Ordners `changed_full`.
-
+Führen Sie folgenden Befehl aus, um das Modul zu installieren:
+```bash
+composer require seemannit/oxid-responsive-emails
+```
 
 ## Datenbankeinträge
 
